@@ -1,4 +1,4 @@
 # Ignore Files
 
-/node_modules
-/src
+node_modules
+src
